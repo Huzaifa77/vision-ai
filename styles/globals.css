@@ -1,0 +1,9 @@
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    height: 100vh;
+    width: 100vw;
+    background-image: linear-gradient(to bottom right, rgb(26, 81, 107), rgb(46, 153, 121));
+}
+
