@@ -2,8 +2,7 @@
 body {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-    height: 100vh;
-    width: 100vw;
-    background-image: linear-gradient(to bottom right, rgb(26, 81, 107), rgb(36, 93, 76));
+    height: 97vh;
+    background-image: linear-gradient(to bottom right, rgb(3, 35, 41), rgb(39, 79, 92));
 }
 
